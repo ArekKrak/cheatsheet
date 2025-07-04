@@ -42,11 +42,10 @@ h2 a {
     text-decoration: none;
 }
 
-/* a:hover {
+a:hover {
     color: white;
 }
- */
-a:hover,
+
 h2:hover {
     color: white;
     background-color: green;
