@@ -37,7 +37,7 @@ h2 {
     transition: all 0.3s ease;
 }
 
-h2 a {
+a h2 {
     width: 300px;
     color: purple;
     text-decoration: none;
