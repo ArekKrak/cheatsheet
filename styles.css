@@ -12,7 +12,7 @@ h1:hover {
     border: 0.5px dotted black;
     border-radius: 5%;
     max-width: 700px;
-    text-align: center;
+    margin: 0 auto;
 }
 
 h2 {
