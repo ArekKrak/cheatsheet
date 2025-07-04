@@ -38,7 +38,12 @@ h2 {
     text-decoration: none;
 }
 
-#dis-prop {
+.format {
+    width: 300px;
+    text-decoration: none;
+}
+
+/* #tatts {
     width: 300px;
     text-decoration: none;
 }
@@ -47,6 +52,11 @@ h2 {
     width: 300px;
     text-decoration: none;
 }
+
+#dis-prop {
+    width: 300px;
+    text-decoration: none;
+} */
 
 a h2 {
     width: 300px;
