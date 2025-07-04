@@ -1,0 +1,62 @@
+body {
+    font-family: monospace;
+    background-image: linear-gradient(to right,blue,white,white,blue);
+}
+
+h1, h2, table {
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+table {
+    border: 2px solid;
+    color: purple;
+    width: 650px;
+    margin: 0 auto;
+    box-shadow: 8px 8px 5px #444;
+}
+
+thead {
+    background-color: pink;
+}
+
+td {
+    border-top: 1px solid red;
+    text-align: left;
+    background-color: white;
+}
+
+.code {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+}
+
+.refs {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+}
+
+code {
+    background: var(--code-background-inline);
+    padding: .125rem .25rem;
+    width: fit-content;
+}
+
+#charhead {
+    text-align: left;
+    margin: 25px 400px;
+}
+
+.charref {
+    margin: 0 200px;
+    margin-bottom: 100px;
+    float: left;
+}
+
+div .dispdiv {
+    float: right;
+    margin-right: 500px;
+}
