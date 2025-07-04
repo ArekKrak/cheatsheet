@@ -46,6 +46,7 @@ h2 a {
     color: white;
 }
  */
+a,
 h2:hover {
     color: white;
     background-color: green;
