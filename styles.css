@@ -43,6 +43,11 @@ h2 {
     text-decoration: none;
 }
 
+#charhead {
+    width: 300px;
+    text-decoration: none;
+}
+
 a h2 {
     width: 300px;
     color: purple;
@@ -112,4 +117,3 @@ code {
     margin: 0;
     width: 100%;
 }
-
