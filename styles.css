@@ -7,6 +7,12 @@ h1, h2, table {
     text-align: center;
 }
 
+h1:hover {
+    background-color: green;
+    border: 0.5px dotted black;
+    border-radius: 5%;
+}
+
 h2 {
     color: purple;
 }
