@@ -27,7 +27,7 @@ h1:hover {
 }
 
 h2 {
-    color: purple;
+    /* color: purple; */
     width: 300px;
     margin: 25px auto;
     border: 0.5px solid transparent;
