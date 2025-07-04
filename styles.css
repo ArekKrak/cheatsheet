@@ -35,6 +35,9 @@ h2 {
     box-shadow: 8px 8px 5px transparent;
     box-sizing: border-box;
     transition: all 0.3s ease;
+}
+
+h2 a {
     text-decoration: none;
 }
 
