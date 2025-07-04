@@ -38,14 +38,14 @@ h2 {
 }
 
 h2 a {
-    /* color: purple; */
+    color: purple;
     text-decoration: none;
 }
 
-a:hover {
+/* a:hover {
     color: white;
 }
-
+ */
 h2:hover {
     color: white;
     background-color: green;
