@@ -11,6 +11,7 @@ h1:hover {
     background-color: green;
     border: 0.5px dotted black;
     border-radius: 5%;
+    max-width: 700px;
 }
 
 h2 {
