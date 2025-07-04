@@ -22,6 +22,7 @@ h1:hover {
     background-color: green;
     border-color: black;
     box-shadow: 8px 8px 5px #444;
+    border-radius: 0.5em;
 }
 
 h2 {
@@ -76,16 +77,6 @@ code {
     width: fit-content;
 }
 
-#charhead {
-    text-align: left;
-    margin: 25px 400px;
-}
-
-.charref {
-    margin: 0;
-    width: 100%;
-}
-
 .ref-disp-cont {
     display: flex;
     justify-content: space-between;
@@ -95,7 +86,12 @@ code {
     width: 90%;
 }
 
-div .dispdiv {
-    float: right;
-    margin-right: 500px;
+.chardiv, .dispdiv {
+    width: 50%;
 }
+
+.charref {
+    margin: 0;
+    width: 100%;
+}
+
