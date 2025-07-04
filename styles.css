@@ -11,12 +11,12 @@ h1, h2, table {
 h1 {
     width: 400px;
     margin: 0 auto;
-    border: 0.5px solid transparent;
+    border: 0.5px solid transparent;        /* Reserve space for border */
     border-radius: 0.5em;
-    box-shadow: 8px 8px 5px transparent;
-    box-sizing: border-box;
-    transition: all 0.3s ease;
-    display: inline-block;
+    box-shadow: 8px 8px 5px transparent;    /* Reserve space for shadow */
+    box-sizing: border-box;     /* Ensures padding and border are included in width */
+    transition: all 0.3s ease;  /* Smooth effect */
+    display: inline-block;      /* It ensures the element's width only affects its own box */
 }
 
 h1:hover {
