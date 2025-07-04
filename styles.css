@@ -14,7 +14,7 @@ h1:hover {
     width: 400px;
     margin: 0 auto;
     box-shadow: 8px 8px 5px #444;
-    position: sticky;
+    position: static;
 }
 
 h2 {
