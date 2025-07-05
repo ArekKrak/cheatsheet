@@ -133,11 +133,12 @@ p {
     border: 1px dotted black;
     border-radius: 0.5em;
     padding: 3px;
-    max-width: 100%;
+    max-width: 90vw;
     transition: transform 0.3s ease;
     display: inline-block;
-    transform-origin: center;
+    transform-origin: center center;
     z-index: 1;
+    word-break: break-word;
 }
 
 p:hover {
