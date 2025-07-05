@@ -2,7 +2,6 @@ body {
     font-family: monospace;
     background-image: linear-gradient(to right,blue,white,white,blue);
     text-align: center;
-    overflow-x: hidden;
 }
 
 h1, h2, table {
