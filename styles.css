@@ -31,7 +31,7 @@ h2 {
     width: 300px;
     margin: 25px auto;
     padding: 6px;
-    border: 0.5px solid transparent;
+    border: 2px solid transparent;
     border-radius: 0.5em;
     box-shadow: 8px 8px 5px transparent;
     box-sizing: border-box;
@@ -58,7 +58,7 @@ a:hover {
 h2:hover {
     color: white;
     background-color: green;
-    border-color: black;
+    border: 0.5px solid black;
     box-shadow: 8px 8px 5px #444;
 }
 
