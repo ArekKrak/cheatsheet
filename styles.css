@@ -64,10 +64,8 @@ h2:hover {
 }
 
 h2:active {
-    /* color: white;
-    background-color: green; */
     border: 0.5em solid black;
-    /* box-shadow: 8px 8px 5px #444; */
+    box-sizing: border-box;
     font-size: 2em;
 }
 
