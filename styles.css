@@ -170,7 +170,7 @@ button:active {
     background: linear-gradient(#0c960c, #0ebc0e);
 }
 
-button a {
+button, #btn {
     position: relative;
     top: 30px;
 }
