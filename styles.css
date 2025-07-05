@@ -131,6 +131,7 @@ p {
 p:hover {
     transform: scale(1.50);
     transition: transform 0.3s ease;
+    clear: right;
 }
 
 button {
