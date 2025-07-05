@@ -65,6 +65,7 @@ h2:active {
     border: 0.5em solid black;
     box-sizing: border-box;
     font-size: 2em;
+    display: inline-block;
 }
 
 table {
