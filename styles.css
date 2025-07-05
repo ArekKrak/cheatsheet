@@ -136,8 +136,22 @@ p {
 }
 
 p:hover {
-    transform: scale(1.50);
-    transition: transform 0.3s ease;
+    animation: bounceRight 0.6s ease-out;
+}
+
+@keyframes bounceRight {
+    0% {
+        transform: translateX(0);
+    }
+    60% {
+        transform: translateX(20px);
+    }
+    80% {
+        transform: translateX(-10px);
+    }
+    100% {
+        transform: translateX(0);
+    }
 }
 
 button {
