@@ -119,6 +119,11 @@ code {
     width: 100%;
 }
 
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+
 a button {
     position: relative;
     top: 50px;
