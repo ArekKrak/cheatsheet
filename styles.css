@@ -110,6 +110,7 @@ code {
 
 #lmore {
     width: 80%;
+    display: flex;
 }
 
 .charref {
